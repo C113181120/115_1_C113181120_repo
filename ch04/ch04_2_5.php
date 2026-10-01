@@ -1,3 +1,6 @@
+# SID:C113181120
+# name:周序恩
+#Ex03
 <?php $name = "陳會安";  // 指定變數值
     $username1 = "陳允傑";
     $username2 = "江小魚";

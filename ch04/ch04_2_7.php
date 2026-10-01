@@ -1,3 +1,7 @@
+# SID:C113181120
+# name:周序恩
+#Ex05
+
 <?php
 // 1. 將函式定義放入 PHP 標籤內
 function square(float|int $v): int|float {

@@ -1,3 +1,7 @@
+# SID:C113181120
+# name:周序恩
+#Ex02
+
 // 指定變數值<?php
     $name = "myName"; // 將字串 "myName" 賦值給變數 $name
 
