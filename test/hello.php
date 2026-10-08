@@ -1,5 +1,5 @@
 <?php
 echo "hellow world<BR>";
-echo "Name: Smith <BR>";
-echo "SID: C123456<BR>";
+echo "Name: 周序恩 <BR>";
+echo "SID: C113181120<BR>";
 echo "<HR>";
