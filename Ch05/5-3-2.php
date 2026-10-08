@@ -1,3 +1,7 @@
+# Name:周序恩<BR>
+# SID:C113181120<BR>
+#EX03
+<HR>
 <?php
 $result = 0;
 $n = 0;
