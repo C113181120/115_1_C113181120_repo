@@ -1,4 +1,7 @@
 <?php
+include("about_me.php");
+echo"EX02<br/>";
+
 $error = "";
 $msg = ""; // 初始變數值
 $name = "";
